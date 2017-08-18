@@ -1,0 +1,4 @@
+[submodule "modules/wifi_flex"]
+	path = modules/wifi_flex
+	url = https://github.com/danieldUKIM/wifi_flex
+	branch = master
